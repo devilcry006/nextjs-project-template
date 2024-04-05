@@ -1,0 +1,11 @@
+{
+  "Home": {
+    "title": "Hello world!"
+  },
+  "Blog": {
+    "title": "Blog"
+  },
+  "About": {
+    "title": "About"
+  }
+}
